@@ -1,2 +1,3 @@
 fichero di desarrullo
 Me parece que quiero editar esto
+Edito esta linea desde Git
